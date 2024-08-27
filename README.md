@@ -41,15 +41,18 @@ I am training to be a data engineer and here is the work of my training
   <img width="12" />
   <img src="https://static-00.iconduck.com/assets.00/hadoop-icon-2048x1535-hnz0inkl.png" height="40" alt="hadoop logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/376353/terraform.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
 </div>
 
 ## Repository
 
 1. **01-project-retail-with-airflow** : Project ที่สร้าง Data Mockup ขึ้นมาโดยจะแบ่ง pipeline เป็น 2 ส่วนคือ ส่วนที่ Upload แบบ full load นำข้อมูลเข้ามาทั้งหมด
    และส่วนที่ Update โดยจะ update เฉพาะข้อมูลวันที่ปัจจุบัน (Tools : Airflow, MySQL, S3, Pandas, Docker)
-3. **02-project-spotify-with-airflow** : Project ที่นำข้อมูลจาก Kaggle มาทำการ Transform ข้อมูล (Tools : Airflow, GCS, BigQuery, Looker Studio, Pandas, Docker)
-4. **03-project-cloudera-hadoop** : Project ที่สร้าง Data Mockup ขึ้นมาเพื่อทดลองใช้งาน Hadoop บน Cloudera ซึ่งจะมี getting_started อธิบายขั้นตอนของการทำ project นี้ (Tools : Docker, Airflow, HDFS, Hive, Flume, Spark, Google Compute Engine, Looker Studio)
-5. **end-to-end-project-r2de3** : เป็น Project ที่ทำใน Course "**Road to Data Engineer 3.0 By DataTH**" โดยจะมี Part ที่เป็น Pipeline และ Part ที่ทำความสะอาดข้อมูลโดยใช้ PySpark บน Jupyter Notebook (Tools : Google Cloud Composer, GCS, Bigquery, Looker Studio, Spark)
+2. **02-project-spotify-with-airflow** : Project ที่นำข้อมูลจาก Kaggle มาทำการ Transform ข้อมูล (Tools : Airflow, GCS, BigQuery, Looker Studio, Pandas, Docker)
+3. **03-project-cloudera-hadoop** : Project ที่สร้าง Data Mockup ขึ้นมาเพื่อทดลองใช้งาน Hadoop บน Cloudera ซึ่งจะมี getting_started อธิบายขั้นตอนของการทำ project นี้ (Tools : Docker, Airflow, HDFS, Hive, Flume, Spark, Google Compute Engine, Looker Studio)
+4. **end-to-end-project-r2de3** : เป็น Project ที่ทำใน Course "**Road to Data Engineer 3.0 By DataTH**" โดยจะมี Part ที่เป็น Pipeline และ Part ที่ทำความสะอาดข้อมูลโดยใช้ PySpark บน Jupyter Notebook (Tools : Google Cloud Composer, GCS, Bigquery, Looker Studio, Spark)
+5. **04-project-terraform-gcp** : เป็น Project ที่สร้าง Google Cloud Platform ด้วย Terraform เพื่อนำมาทำ Data Pipeline (Tools : Terraform, GCS, BigQuery, Composer, Dataproc, Looker Studio)
 
 <!---
 
